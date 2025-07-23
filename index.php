@@ -1,5 +1,5 @@
 <?php
-// Input validation function based on OWASP C5 and best practices test
+// Input validation function based on OWASP C5 andd best practices test
 function isXssAttack($input) {
     // Check for common XSS patterns
     $patterns = [
